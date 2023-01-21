@@ -46,7 +46,7 @@ admin.site.register(Employee,EmployeeAdmin)
 
 ## OUTPUT
 
-![OUTPUT](./out.jpeg)
+![OUTPUT](/home/sec/Downloads/out.jpeg)
 
 ## RESULT
 
